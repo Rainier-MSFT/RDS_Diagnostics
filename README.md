@@ -1,4 +1,4 @@
-# Remote Desktop Services Tracer
+# Remote Desktop Services diagnostics tool
 
 #### Note - Due to a dependency on internal TMF/symbols, the tool is only available for data collection through a Microsoft support case
 
